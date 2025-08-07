@@ -35,7 +35,7 @@ An AI-powered system that suggests personalized medicine recommendations based o
 ### **📌 Mini Compiler** 🖥️  
 A lightweight **compiler** built to analyze, parse, and translate programming code into machine-executable instructions. Designed with **lexical and syntax analysis techniques**.  
 
-🔗 **[Check it out](#)**  
+🔗 **[Check it out](https://github.com/Noba21/mini-compiler.git)**  
 
 ### **📌 Medal Prediction** 🏅  
 A predictive model that forecasts Olympic medal winners using **data analytics and machine learning algorithms**. It analyzes historical sports data and athlete performance trends.  
