@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm **Nobel Wubtaye**, a passionate **Computer Scientist**
 ### **📌 Object Detection** 🔍  
 A real-time object detection system using **Flask, OpenCV, and YOLOv5**. This project captures live video, detects objects, and streams results via a web application.  
 
-🔗 **[Check it out](#)**  
+🔗 **[Check it out](https://github.com/Noba21/real-time-object-detection.git)**  
 
 ### **📌 Personal Medicine Recommendation** 💊  
 An AI-powered system that suggests personalized medicine recommendations based on patient symptoms and medical history. It leverages **machine learning** for intelligent decision-making.  
